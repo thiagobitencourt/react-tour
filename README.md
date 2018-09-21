@@ -11,3 +11,4 @@ The examples were separated into branches just to keep things organized in this 
 
 - [master](https://github.com/thiagobitencourt/react-tour/tree/master), the current example in place
 - [youtube search](https://github.com/thiagobitencourt/react-tour/tree/youtube), an app to search and display videos from youtube.
+- [Book list and details](https://github.com/thiagobitencourt/react-tour/tree/booklist), the first app using redux as state management.
